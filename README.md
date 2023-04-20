@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Michelle 👋</h1>
 <h3 align="center">Yankunytjatjara\Arabunna web designer from Kaurna Country, South Australia</h3>
-
+<p align="center">🖤💛❤️</p>
 
 <!-- - 🔭 I’m currently working on [this](https://github.com/michellejt/solace-theme)
 
