@@ -2,10 +2,10 @@
 <h3 align="center">Yankunytjatjara\Arabunna web designer from Kaurna Country, South Australia</h3>
 
 
-- 🔭 I’m currently working on [this](https://github.com/michellejt/solace-theme)
+<!-- - 🔭 I’m currently working on [this](https://github.com/michellejt/solace-theme)
 
 - 🌱 I’m currently learning **React**
-
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michelle-tongerie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelle-tongerie" height="30" width="40" /></a>
