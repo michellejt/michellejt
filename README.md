@@ -9,7 +9,7 @@
 <p align="center"></p>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Find me on:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/michelle-tongerie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelle-tongerie" height="30" width="40" /></a>
 <a href="https://dribbble.com/mtongas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mtongas" height="30" width="40" /></a>
