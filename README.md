@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michelle 👋</h1>
-<h3 align="center">Yankunytjatjara\Arabana web designer living and working on Kaurna Country, South Australia</h3>
+<h3 align="center">Yankunytjatjara\Arabana web designer and developer living and working on Kaurna Country, South Australia</h3>
 <p align="center">🖤💛❤️</p>
 
 <!-- - 🔭 I’m currently working on [this](https://github.com/michellejt/solace-theme)
